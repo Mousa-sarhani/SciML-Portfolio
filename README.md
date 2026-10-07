@@ -2,7 +2,7 @@
 
 This repository demonstrates my transition from traditional computational mechanics to physics-based deep learning. It contains implementations of neural networks enforcing physical laws (PINNs) and infinite-dimensional neural operators (FNOs/PINOs).
 
-## 🚀 Projects Included
+##  Projects Included
 
 ### 1. Data-Driven Hyperelasticity (MLP)
 * **Objective:** Predict a non-linear stress-strain curve from noisy experimental brass tensile data.
@@ -27,7 +27,7 @@ This repository demonstrates my transition from traditional computational mechan
 * **Key Skills:** Physics-Informed Neural Operators, freezing Conv1d layers to act as finite difference stencils.
 * **Run it:** `python scripts/pino_burgers.py`
 
-## ⚙️ Installation & Usage
+##  Installation & Usage
 To reproduce these results on your local machine:
 1. Clone the repository: `git clone https://github.com/Mousa-sarhani/SciML-Portfolio.git`
 2. Install dependencies: `pip install -r requirements.txt`
